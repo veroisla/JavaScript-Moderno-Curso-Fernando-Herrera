@@ -1,8 +1,6 @@
 # JavaScript-Moderno-Curso-Fernando-Herrera
 
-Curso de UDEMY, con el profesor Fernando Herrera. 
-
--Section 1: Introduccción
+- Section 1: Introduccción
 - Section 2: Intrdocucción a JavaScript y la consola. 
 - Section 3: Fundamentos de JavaScript, primitivos, arreglos, objetos y funciones básicas. 
 - Section 4: Ciclos y estructuras de control. 
