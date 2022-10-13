@@ -1,0 +1,9 @@
+// DATOS PRIMITIVOS
+ Es una información que no es un objeto y son inmutables
+
+  - Boolean : true /false
+  - Null: Sin valor
+  - Undefined: Una variable declarada que aún no se le ha asignado valor
+  - Number: números
+  - String: cadena de caracteres
+  - Symbol: Valor único que no es igual a ningún otro valor

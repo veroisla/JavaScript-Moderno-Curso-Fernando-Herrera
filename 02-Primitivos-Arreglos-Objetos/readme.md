@@ -1,15 +1,15 @@
 # Section 2: Fundamentos de JavaScript, primitivos, arreglos, objetos y funciones básicas
 
-- ¿Qué son los primitivos?
+- ¿Qué son los primitivos?.
 
-- Palabras reservadas
+- Palabras reservadas.
 
-- Arreglos
+- Arreglos.
 
-- Objetos literales
+- Objetos literales.
 
-- Funciones básicas
+- Funciones básicas.
 
-- Funciones de flecha
+- Funciones de flecha.
 
-- Retorno de las funciones
+- Retorno de las funciones.
