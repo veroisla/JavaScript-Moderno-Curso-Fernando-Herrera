@@ -1,5 +1,6 @@
 //STRING
-let nombre = 'Vero isla';
+let nombre = 'vero';
+
 console.log(nombre);
 
 console.log(typeof nombre);
